@@ -17,7 +17,8 @@
 ### Frontend  
 - HTML5  
 - CSS3  
-- JavaScript (React)  
+- JavaScript
+- Laravel  
 
 ### Backend  
 - Python  
